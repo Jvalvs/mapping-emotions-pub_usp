@@ -1,1 +1,1 @@
-# mapping-emotions-pub_usp
+# Mapeando textos em Emoções

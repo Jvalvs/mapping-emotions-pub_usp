@@ -2,6 +2,5 @@
 the objective of this project is to develop a tool for mapping textual reviews onto an arousal-valence emotion map.
 
 # Installation
-Clone the repository
-
-```git clone https://github.com/Jvalvs/mapping-emotions-pub_usp.git```
+1. Clone the repository
+```git clone https://github.com/Jvalvs/mapping-emotions-pub_usp.git

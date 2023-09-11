@@ -3,4 +3,5 @@ the objective of this project is to develop a tool for mapping textual reviews o
 
 # Installation
 Clone the repository
+
 ```git clone https://github.com/Jvalvs/mapping-emotions-pub_usp.git```
